@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noobedidoob
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning to make games in Unity
+- 👀 I’m interested in developing websites, apps and games 
+- 🌱 I’m currently learning how to make apps with flutter
 
 <!---
 Noobedidoob/Noobedidoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
